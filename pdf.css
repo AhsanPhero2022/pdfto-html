@@ -1,0 +1,88 @@
+.main-header{
+          width: 800px;
+          background-color: blueviolet;
+          margin-left: 18%;
+          padding: 10px;
+          margin-top: 1rem;
+          height: 160vh;
+          color: aqua;
+          
+}
+.main{
+          display: flex;
+          margin-left: 2rem;
+          
+}
+.main>img{
+          width: 2rem;
+          height: 2rem;
+          margin-top: 3.80rem;
+          border-radius: 5px;
+}
+
+.coffee{
+          display: flex;
+          margin-left: 2rem;
+}
+.coffee>h6{
+          margin-left: 55%;
+          margin-top: -3rem;
+}
+
+table>tr>td{
+          border: 1px blueviolet;
+}
+
+.table{
+          display: flex;
+          justify-content: space-evenly;
+}
+
+.half{
+          width:45%;
+          height: 100%;
+}
+
+td{
+          height: 25px;
+}
+.icon{
+          margin-top: 2rem;
+          display: flex;
+          justify-content: space-around;
+          
+          
+}
+
+.travel-table{
+          width: 25%;
+          margin-left: 24px;
+          margin-top: 1.5rem;
+}
+
+.office{
+          width: 25%;
+          margin-left: 24px;
+          margin-top: 1.5rem;  
+}
+
+.big-table{
+          margin-left: 30%;
+          margin-top: -39%;
+          margin-right: 1.5rem;
+}
+
+footer{
+          width: 1050;
+          font-size: 10.9px;
+          margin-left: 1.5rem;
+          margin-top: 2rem;
+}
+.no{
+          display: flex;
+}
+.no>h4{
+          margin-left: 20px;
+          margin-top: -0.4rem;
+          color: maroon;
+}
